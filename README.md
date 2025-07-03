@@ -22,8 +22,8 @@ This Python-based project transforms your face into a **realistic pencil sketch*
 
 1. Clone the Repository
 
-git clone https://github.com/karthikbhukya2005/face-sketch-generator.git<br>
-cd face-sketch-generator
+    git clone https://github.com/karthikbhukya2005/face-sketch-generator.git<br>
+    cd face-sketch-generator
 
 2. Install Required Libraries
 
@@ -49,10 +49,11 @@ In sketch view:<br>
 
 📂 Output
 
-Your sketch will be saved as:
-final_sketch.jpg
+Your sketch will be saved as:<br>
+final_sketch.jpg<br>
 
-🤖 About the Author
+
+🤖 About the Author<br>
 Karthik Bhukya<br>
 Fresher | AI & ML Enthusiast | IIIT Dharwad<br>
 📧 karthikbhukya47@gmail.com
