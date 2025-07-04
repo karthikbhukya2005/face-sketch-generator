@@ -56,4 +56,5 @@ final_sketch.jpg<br>
 🤖 About the Author<br>
 Karthik Bhukya<br>
 Fresher | AI & ML Enthusiast | IIIT Dharwad<br>
-📧 karthikbhukya47@gmail.com
+📧 karthikbhukya47@gmail.com<br>
+LinkedIn:www.linkedin.com/in/karthik-bhukya-0a12392a2
